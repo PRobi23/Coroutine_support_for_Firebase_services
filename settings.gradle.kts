@@ -24,4 +24,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "Coroutine support for Firebase services"
 include(":app")
+include(":firebase-messaging-coroutines")
  
